@@ -1,1 +1,0 @@
-Temporary CI host for TENET Car OS Android APK build. Source is isolated on a dedicated branch and can be removed after build.
